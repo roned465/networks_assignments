@@ -1,1 +1,1 @@
-hello
+Assignments in the Networks course 
